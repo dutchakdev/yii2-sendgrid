@@ -9,7 +9,7 @@
  * @license http://www.sweelix.net/license license
  * @version XXX
  * @link http://www.sweelix.net
- * @package sweelix\sendgrid
+ * @package dutchakdev\sendgrid
  */
 
 namespace dutchakdev\sendgrid;
@@ -31,7 +31,7 @@ use yii\mail\MailerInterface;
  * @license http://www.sweelix.net/license license
  * @version XXX
  * @link http://www.sweelix.net
- * @package sweelix\sendgrid
+ * @package dutchakdev\sendgrid
  * @since XXX
  */
 class Message extends BaseMessage

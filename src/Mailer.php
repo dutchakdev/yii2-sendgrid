@@ -9,7 +9,7 @@
  * @license http://www.sweelix.net/license license
  * @version XXX
  * @link http://www.sweelix.net
- * @package sweelix\sendgrid
+ * @package dutchakdev\sendgrid
  */
 
 namespace dutchakdev\sendgrid;
@@ -30,7 +30,7 @@ use yii\mail\BaseMailer;
  * @license http://www.sweelix.net/license license
  * @version XXX
  * @link http://www.sweelix.net
- * @package sweelix\sendgrid
+ * @package dutchakdev\sendgrid
  * @since XXX
  * @todo implement batch messages using API
  */
@@ -59,7 +59,7 @@ class Mailer extends BaseMailer
     /**
      * @inheritdoc
      */
-    public $messageClass = 'sweelix\sendgrid\Message';
+    public $messageClass = 'dutchakdev\sendgrid\Message';
     /**
      * @param Message $message
      * @since XXX
