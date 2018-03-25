@@ -4,11 +4,11 @@
  *
  * PHP version 5.6+
  *
- * @author Philippe Gaultier <pgaultier@sweelix.net>
+ * @author Philippe Gaultier <pgaultier@dutchakdev.net>
  * @copyright 2010-2017 Philippe Gaultier
- * @license http://www.sweelix.net/license license
+ * @license http://www.dutchakdev.net/license license
  * @version XXX
- * @link http://www.sweelix.net
+ * @link http://www.dutchakdev.net
  * @package tests\unit
  */
 
@@ -19,11 +19,11 @@ use dutchakdev\sendgrid\Mailer;
 /**
  * Test node basic functions
  *
- * @author Philippe Gaultier <pgaultier@sweelix.net>
+ * @author Philippe Gaultier <pgaultier@dutchakdev.net>
  * @copyright 2010-2017 Philippe Gaultier
- * @license http://www.sweelix.net/license license
+ * @license http://www.dutchakdev.net/license license
  * @version XXX
- * @link http://www.sweelix.net
+ * @link http://www.dutchakdev.net
  * @package tests\unit
  * @since XXX
  */

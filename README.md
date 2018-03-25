@@ -38,7 +38,7 @@ return [
     //....
     'components' => [
         'mailer' => [
-            'class' => 'sweelix\sendgrid\Mailer',
+            'class' => 'dutchakdev\sendgrid\Mailer',
             'token' => '<your sendgrid token>',
         ],
     ],

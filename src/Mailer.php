@@ -4,11 +4,11 @@
  *
  * PHP version 5.6+
  *
- * @author Philippe Gaultier <pgaultier@sweelix.net>
+ * @author Philippe Gaultier <pgaultier@dutchakdev.net>
  * @copyright 2010-2017 Philippe Gaultier
- * @license http://www.sweelix.net/license license
+ * @license http://www.dutchakdev.net/license license
  * @version XXX
- * @link http://www.sweelix.net
+ * @link http://www.dutchakdev.net
  * @package dutchakdev\sendgrid
  */
 
@@ -25,11 +25,11 @@ use yii\mail\BaseMailer;
 /**
  * This component allow user to send an email
  *
- * @author Philippe Gaultier <pgaultier@sweelix.net>
+ * @author Philippe Gaultier <pgaultier@dutchakdev.net>
  * @copyright 2010-2017 Philippe Gaultier
- * @license http://www.sweelix.net/license license
+ * @license http://www.dutchakdev.net/license license
  * @version XXX
- * @link http://www.sweelix.net
+ * @link http://www.dutchakdev.net
  * @package dutchakdev\sendgrid
  * @since XXX
  * @todo implement batch messages using API
